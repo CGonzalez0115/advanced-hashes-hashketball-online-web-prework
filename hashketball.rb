@@ -119,3 +119,9 @@ def game_hash
     }
   }
 end
+
+def home_team_name
+  puts "Brooklyn Nets"
+end
+
+Brooklyn Nets
